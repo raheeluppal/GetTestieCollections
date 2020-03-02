@@ -57,4 +57,6 @@ public class TestStack {
         LOGGER.info("" + stack);
         Assert.assertTrue(stack.empty());
     }
+
+
 }
